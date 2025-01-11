@@ -1,2 +1,2 @@
 # StockAgentFrameWork
-A swarm framework to build traditional financial and cryptocurrency trading AI agents. 
+A swarm framework designed for building AI agents that trade and report in both traditional finance and cryptocurrency markets. 
